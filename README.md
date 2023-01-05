@@ -8,10 +8,4 @@ Description of the project:
 We used python for solving the problem statement. User inputs(ie. for total number of miles, number of cities and their distances) are taken by following the given constraints. The city names and the distance between them are stored in a dictionary. And, the output is stored in an list 'result'. Our algorithm traverses from the first city to the last city, where the last city will have zero distance. For example: {'A': 10, 'B': 5, 'C': 0} ie. Distance from A to B is 10, Distance from B to C is 5. We check if we have enough charging to traverse to the previous city if current station is not working.
 
 
-Group members:
 
-Devashri Manepatil: devashri@csu.fullerton.edu
-
-Apoorva Machale: apoorvamachale@csu.fullerton.edu
-
-Sumit Bishnoi: sumitbishnoi@csu.fullerton.edu
